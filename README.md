@@ -75,7 +75,7 @@ Las secciones llamadas Hacker Edition son opcionales. Si terminaste con todo lo 
 
 Features/características extra sugeridas:
 
-* En lugar de consumir la data estática brindada en este repositorio, puedes consumir la data de forma dinámica, cargando un archivo JSON por medio de fetch. La carpeta src/data contiene una versión .js y una .json de de cada set datos.
+* En lugar de consumir la data estática brindada en este repositorio, puedes consumir la data de forma dinámica, cargando un archivo JSON por medio de fetch.
 * Agregar a tu interfaz de usuario implementada visualizaciones gráficas como ser un mapa del mundo que muestre los precios de Spotify por país, y coloree más oscuro o más claro si el precio es más alto o más bajo. Para ello te recomendamos explorar librerías de gráficas cómo D3.js, datamaps.js, y tinycolor.js
 * También puedes añadir más datos sobre los países que muestras usando la librería restcountries.eu
 ## 7. Consideraciones técnicas
