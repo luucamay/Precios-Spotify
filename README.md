@@ -77,7 +77,7 @@ Features/características extra sugeridas:
 
 * En lugar de consumir la data estática brindada en este repositorio, puedes consumir la data de forma dinámica, cargando un archivo JSON por medio de fetch.
 * Agregar a tu interfaz de usuario implementada visualizaciones gráficas como ser un mapa del mundo que muestre los precios de Spotify por país, y coloree más oscuro o más claro si el precio es más alto o más bajo. Para ello te recomendamos explorar librerías de gráficas cómo D3.js, datamaps.js, y tinycolor.js
-* También puedes añadir más datos sobre los países que muestras usando la librería restcountries.eu
+* También puedes añadir más datos sobre los países que muestras usando la librería [restcountries.eu](restcountries.eu)
 ## 7. Consideraciones técnicas
 * El diseño visual de los componentes es de libre elección.
 * Pueden usar algún framework de css si así lo deciden.
