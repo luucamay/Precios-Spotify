@@ -59,7 +59,7 @@ Dicho en palabras sencillas, aprenderás a:
 * Este proyecto se debe resolver individualmente.
 * Usa la data de [este archivo](https://github.com/matiassingers/spotify-pricing/blob/master/data/countries.json)
 * Tiempo para completar el reto: 1 a 2 días.
-* El proyecto será entregado subiendo tu código a GitHub (commit/push) y la interfaz será desplegada usando GitHub Pages.
+* El proyecto será entregado subiendo tu código a GitHub (commit/push) y la interfaz será desplegada usando [GitHub Pages](https://pages.github.com/).
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
