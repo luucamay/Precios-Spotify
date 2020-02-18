@@ -52,6 +52,7 @@ Dicho en palabras sencillas, aprenderás a:
 * Manipular arreglos (arrays) y objetos (objects).
 * Manipular el DOM (agregar elementos dinámicamente basados en la data).
 * Manejar eventos del DOM para permitir interacción con el usuario (filtrado, ordenado, ...).
+* Visualizar JSON data en el navegador
 
 ## 4. Consideraciones generales
 
